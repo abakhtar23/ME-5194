@@ -1,0 +1,8 @@
+board==1.0
+conda==4.2.13
+imutils==0.5.4
+pycosat==0.6.1
+pycrypto==2.6.1
+PyYAML==3.11
+requests==2.7.0
+ruamel.yaml==0.11.7
